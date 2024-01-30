@@ -1,3 +1,3 @@
 # odin-recipes
-<h2>Simple web page with recipes</h2>
-first web from odin project https://www.theodinproject.com
+<p>Simple web page with recipes<p>
+first web from <a href="https://www.theodinproject.com">odin project</a>
