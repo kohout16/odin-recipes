@@ -1,0 +1,26 @@
+/* styles css template */
+
+* {
+    background-color: aliceblue;
+    color: darkslategrey;
+}
+
+.images {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* center list items */
+ul {
+    display: inline-block
+    
+}
+
+
+h1 {
+    color: darkslategrey;
+    text-align: center;
+    
+}
